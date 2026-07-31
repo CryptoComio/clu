@@ -1,0 +1,8 @@
+{
+  "name": "IMPERIAL FC 27 — EA SPORTS FC Pro Club",
+  "description": "Hub e Dashboard ufficiale per IMPERIAL FC 27 (EA SPORTS FC Pro Club). Monitora statistiche live, rosa, risultati partite e classifiche.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
